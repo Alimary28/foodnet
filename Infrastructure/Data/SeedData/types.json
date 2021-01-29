@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Name": "Entrees"
+  },
+  {
+    "Id": 2,
+    "Name": "Soups"
+  },
+  {
+    "Id": 3,
+    "Name": "Pizza"
+  },
+  {
+    "Id": 4,
+    "Name": "Meat dishes"
+  },
+  {
+    "Id": 5,
+    "Name": "Garnishes"
+  },
+  {
+    "Id": 6,
+    "Name": "Desserts"
+  },
+  {
+    "Id": 7,
+    "Name": "Beverages"
+  }
+]

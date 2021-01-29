@@ -1,0 +1,258 @@
+[
+  {
+    "Name": "Crab Artichoke Dip",
+    "Description": "Dungeness crab, well drained, cream cheese, artichoke hearts, onions, garlic, tabasco, mozarella and parmesan.",
+    "Price": 85,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/Crab-Dip-small-bigstock.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Shrimp Appetizer Tray",
+    "Description": "Shrimp, lettuce, tomatoes, avocados, lemon and Thousand Island Dressing",
+    "Price": 87,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/ShrimpSalad-3.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Mini Blini Napoleons",
+    "Description": "Caviar, egg, flour, milk, butter, crème fraîche, chives",
+    "Price": 160,
+    "PictureUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2012%2F05%2F201111-r-mini-blini-napoleons.jpg&w=1200&c=sc&poi=face&q=85",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Salmon Trout Tartare",
+    "Description": "Scallions, chives, Asian sesame oil, pressed caviar, skinless salmon trout or salmon fillet, tomatoes",
+    "Price": 180,
+    "PictureUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2016%2F02%2FHD-200812-r-salmon-tartare-caviar.jpg&w=1200&c=sc&poi=face&q=85",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Samosa",
+    "Description": "Potatoes, green peas, flour, carom seeds, ghee, cumin seeds, ginger, mango, chilli",
+    "Price": 80,
+    "PictureUrl": "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2013/11/samosa-0-280x280.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Chicken Soup",
+    "Description": "Linguine pasta, chicken, carrot, onion, celery",
+    "Price": 25,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/chicken-noodle-soup-4.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "French Onion Soup",
+    "Description": "Onions, basic brown stock, white wine, Swiss cheese and toasted French bread",
+    "Price": 45,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/french-onion-soup1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Chicken Tortilla Soup",
+    "Description": "Onion, garlic, Ancho chili powder, jalapeno pepper, tomatoes, chicken, avocado, salt and pepper",
+    "Price": 30,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/tortilla-soup1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Egg Florentine Pizza",
+    "Description": "Bacon, baby spinach, tomato sauce, mozarella, grape tomatoes",
+    "Price": 65,
+    "PictureUrl": "https://img.taste.com.au/3ZLWLIW5/w720-h480-cfill-q80/taste/2016/11/eggs-florentine-pizzas-81722-1.jpeg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Classic Margherita",
+    "Description": "Passata, mozzarella balls, olive oil, basil leaves, salt and pepper",
+    "Price": 45,
+    "PictureUrl": "https://www.ginodacampo.com/wp-content/uploads/2014/11/authentic-italian-margherit-400x400.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Bresaola and parma ham Pizza",
+    "Description": "Mascarpone cheese, salami Milano, Parma ham, bresaola, salt and pepper",
+    "Price": 88,
+    "PictureUrl": "https://www.ginodacampo.com/wp-content/uploads/2014/11/Pizza-volante-ai-salumi-rec-400x400.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Butternut squash, red onion, cavolo nero & dolcelatte pizza",
+    "Description": "Butternut squash, red onions, fresh oregano, cavolo nero, garlic, Dolcelatte cheese, walnut pieces, salt & freshly ground black pepper",
+    "Price": 105,
+    "PictureUrl": "https://www.ginodacampo.com/wp-content/uploads/2018/11/butternut_cavolo_nero_pizza-400x400.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Spanner crab rice with edamame and tobiko",
+    "Description": "Spanner crab, frozen whole edamame, daikon, Tobiko orange, Japanese rice, Seasoned nori flakes & sliced long green shallots",
+    "Price": 120,
+    "PictureUrl": "https://img.delicious.com.au/gBdW4Yag/del/2020/06/spanner-crab-rice-with-edamame-and-tobiko-135052-2.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Edamame sichimi",
+    "Description": "Seasoned nori sheets, shichimi togarashi, frozen whole edamame, lemon and virgin olive oil",
+    "Price": 45,
+    "PictureUrl": "https://img.delicious.com.au/ZGSXtDXV/w759-h506-cfill/del/2020/06/edamame-shichimi-135048-2.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Teriyaki beef and beans",
+    "Description": "Sirloin steak, green beans, onion, peanut oil, red chilli, coriander leaves, steamed jasmine rice",
+    "Price": 249.99,
+    "PictureUrl": "https://img.delicious.com.au/IOVhPpX0/w759-h506-cfill/del/2015/10/teriyaki-beef-and-beans-12595-2.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Beef Fajita",
+    "Description": "Sirloin steak, onion, green Bell pepper, soy sauce, Pico de Gallo, Cheddar cheese, sour cream, Guacamole, Roasted Salsa, Black Bean Salsa and shredded lettuce",
+    "Price": 189.99,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/xbeef_Fajitas2.jpg.pagespeed.ic.JNVleWR5XX.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Filet Mignon",
+    "Description": "Filet mignon steak, clarified butter, Bleu Cheese Butter, Kosher salt and freshly ground pepper",
+    "Price": 299.99,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/bleu-cheese-crusted-filet-mignon.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Spicy Pork",
+    "Description": "Pork tenderloin, garlic, sugar, soy sauce, sesame oil, ginger, cayenne pepper and vegetables",
+    "Price": 150,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/pork-stir-fry1.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Sesame chicken",
+    "Description": "Chicken breast, soy sauce, ginger, garlic, white wine and toasted sesame seeds",
+    "Price": 180,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/sesame-chicken-breast3.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Baked Oysters",
+    "Description": "Live oysters, lemon Herb Butter, Champagne, lemons, Parmesan cheese served with Champagne Vinegar Mignonette Sauce",
+    "Price": 450,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/oysters-baked-small.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Paella",
+    "Description": "Shellfish stock, saffron, onion, garlic, chorizo sausage, rice, shrimp, clams, and mussels",
+    "Price": 350,
+    "PictureUrl": "https://www.simplyrecipes.com/wp-content/uploads/2018/07/Seafood-Paella-LEAD-VERTICAL-768x1075.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Roasted vegetables",
+    "Description": "Potatoes, red onion, baby carrots, asparagus, mushrooms, garlic and lemon juice",
+    "Price": 45,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/roasted-vegetables2.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Fresh green beans",
+    "Description": "Green beans, Dill Butter and lemon",
+    "Price": 38,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/green-beans-dill-butter.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Asian Rice Salad",
+    "Description": "Wild rice, onion, peppers, carrots, peanuts and fresh parsley",
+    "Price": 99.99,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/asian-rice-salad-prawns.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Banana Split Cake",
+    "Description": "Bananas, pineapple, cream cheese, chocolate syrup, Maraschino cherrie and peanuts",
+    "Price": 64.99,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/Banana-Split-Cake.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Nanaimo",
+    "Description": "Butter,  cocoa, graham cracker crumbs, chopped almonds and coconut",
+    "Price": 75,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/Nanaimo-Bars3.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Strawberry Rhubarb cake",
+    "Description": "Rhubarb, strawberries, orange juice, cinnamon, butter served with chopped pecans",
+    "Price": 49.99,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/strawberry-rhubarb-crisp-piece.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Eclair torte",
+    "Description": "Butter, cream cheese, vanilla pudding, milk, bourbon sauce and silvered almonds",
+    "Price": 54.99,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/xfinished-dessert.jpg.pagespeed.ic.VIHrSFG6Ao.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Kahlua Mousse",
+    "Description": "Kahlua, sugar, instant coffee, Ghirardelli chocolate and whipping cream",
+    "Price": 56.99,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/kahlua-mousse-3.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Vanilla and Dulce de Leche Ice Cream",
+    "Description": "Chocolate, biscuits, butter, vanilla ice-cream, dulce de leche",
+    "Price": 84.99,
+    "PictureUrl": "https://img.delicious.com.au/hQatlmip/w759-h506-cfill/del/2015/10/matt-morans-vanilla-and-dulce-de-leche-ice-cream-terrine-15204-2.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Pineapple Sherbet Punch",
+    "Description": "Pineapple sherbet, pineapple juice and soda",
+    "Price": 75,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/Tropical-fruit-cocktails.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Bourbon, Whiskey or Scotch Sour",
+    "Description": "Bourbon, lemon juice, sugar syrup, ice, Orange slice and Maraschino cherry",
+    "Price": 150,
+    "PictureUrl": "https://www.real-restaurant-recipes.com/images/Whiskey-Sour.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 2
+  }
+]
