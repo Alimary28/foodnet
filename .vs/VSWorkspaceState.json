@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API\\Data",
-    "\\API\\Data\\Migrations"
+    "\\API"
   ],
-  "SelectedNode": "\\API",
+  "SelectedNode": "\\API\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }
