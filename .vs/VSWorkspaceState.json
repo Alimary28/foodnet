@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API"
+    "\\ClientApp",
+    "\\ClientApp\\src",
+    "\\ClientApp\\src\\app",
+    "\\ClientApp\\src\\app\\nav-bar",
+    "\\ClientApp\\src\\assets"
   ],
-  "SelectedNode": "\\API\\Startup.cs",
+  "SelectedNode": "\\ClientApp\\angular.json",
   "PreviewInSolutionExplorer": false
 }
