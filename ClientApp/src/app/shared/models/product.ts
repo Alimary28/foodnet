@@ -7,3 +7,4 @@ export interface IProduct {
   productType: string;
   productBrand: string;
 }
+
