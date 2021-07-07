@@ -10,3 +10,12 @@
     top: -12px;
     right: 32px;
 }
+
+a {
+  text-decoration: none;
+  color: #af3531;
+
+  &.active {
+      color:darkred;
+  }
+}

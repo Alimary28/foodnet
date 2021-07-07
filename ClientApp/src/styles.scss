@@ -2,3 +2,10 @@
 body {
   background-color: #6c757dcc;
 }
+.page-item .page-link{
+    color: crimson;
+}
+.page-item.active .page-link {
+  background-color: crimson;
+  border: none;
+}

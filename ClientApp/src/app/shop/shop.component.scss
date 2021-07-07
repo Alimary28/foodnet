@@ -6,7 +6,14 @@ select {
 }
 li {
     background-color: gainsboro;
+    border: none;
+
+    &.active {
+        background-color:crimson;
+    }
 }
 input {
   background-color: #fafbfdcf;
 }
+
+

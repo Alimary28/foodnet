@@ -1,16 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API",
     "\\ClientApp",
     "\\ClientApp\\src",
     "\\ClientApp\\src\\app",
     "\\ClientApp\\src\\app\\core",
-    "\\ClientApp\\src\\app\\core\\nav-bar",
-    "\\ClientApp\\src\\app\\shared",
-    "\\ClientApp\\src\\app\\shared\\models",
-    "\\ClientApp\\src\\app\\shop"
+    "\\ClientApp\\src\\app\\core\\nav-bar"
   ],
-  "SelectedNode": "\\API\\API.csproj",
+  "SelectedNode": "\\ClientApp\\src\\app\\core\\nav-bar\\nav-bar.component.html",
   "PreviewInSolutionExplorer": false
 }
