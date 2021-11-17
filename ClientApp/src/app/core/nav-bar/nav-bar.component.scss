@@ -1,21 +1,21 @@
 .cart-no {
-    position: absolute;
-    min-height: 25px;
-    min-width: 25px;
-    border-radius: 50%;
-    font-size: 1em;
-    background: crimson;
-    color: white;
-    text-align: center;
-    top: -12px;
-    right: 32px;
+  position: absolute;
+  min-height: 25px;
+  min-width: 25px;
+  border-radius: 50%;
+  font-size: 1em;
+  background: #4d4d33;
+  color: white;
+  text-align: center;
+  top: -12px;
+  right: 32px;
 }
 
 a {
   text-decoration: none;
-  color: #af3531;
+  color: #1f1f14;
 
   &.active {
-      color:darkred;
+    color: darkred;
   }
 }

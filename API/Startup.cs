@@ -70,7 +70,7 @@ namespace API
 
             app.UseAuthorization();
 
-            app.UseSwaggerDocumantation();
+            app.UseSwaggerDocumentation();
 
             app.UseEndpoints(endpoints =>
             {

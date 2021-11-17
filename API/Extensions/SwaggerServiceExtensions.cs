@@ -18,7 +18,7 @@ namespace API.Extensions
             return services;
         }
 
-        public static IApplicationBuilder UseSwaggerDocumantation(this IApplicationBuilder app) 
+        public static IApplicationBuilder UseSwaggerDocumentation(this IApplicationBuilder app) 
         {
             app.UseSwagger();
             app.UseSwaggerUI(c =>

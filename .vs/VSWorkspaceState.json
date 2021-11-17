@@ -5,8 +5,12 @@
     "\\ClientApp\\src",
     "\\ClientApp\\src\\app",
     "\\ClientApp\\src\\app\\core",
-    "\\ClientApp\\src\\app\\core\\nav-bar"
+    "\\ClientApp\\src\\app\\core\\interceptors",
+    "\\ClientApp\\src\\app\\core\\nav-bar",
+    "\\ClientApp\\src\\app\\core\\section-header",
+    "\\ClientApp\\src\\app\\core\\services",
+    "\\ClientApp\\src\\app\\shop"
   ],
-  "SelectedNode": "\\ClientApp\\src\\app\\core\\nav-bar\\nav-bar.component.html",
+  "SelectedNode": "\\ClientApp\\tsconfig.json",
   "PreviewInSolutionExplorer": false
 }

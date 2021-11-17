@@ -2,14 +2,44 @@
     width: 100%;
 }
 .btn {
-    width: 50%;
+    width: 30%;
+    height: 40px;
+}
+.image :hover {
+    opacity: 1;
+    & button {
+        transform: none;
+        opacity: 1;
+    }
+}
+.hover-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(228, 203, 203, 0.5);
+    opacity: 0;
+    transition: all 0.5s;
+
+    & button {
+        z-index: 1000;
+        transition: all 0.5s;
+    }
+
+    & button:first-of-type {
+        transform:translateX(-20px);
+    }
+    & button:last-of-type {
+        transform:translateX(20px);
+    }
 }
 a {
   color: #af3531;
 }
 .img-fluid {
-    max-width: 100%;
-    height: 20vw;
+    width: 100%;
+    height: 15vw;
 }
 .card {
   background-color: #fafbfdcf;
