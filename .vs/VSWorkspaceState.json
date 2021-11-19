@@ -1,16 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ClientApp",
-    "\\ClientApp\\src",
-    "\\ClientApp\\src\\app",
-    "\\ClientApp\\src\\app\\core",
-    "\\ClientApp\\src\\app\\core\\interceptors",
-    "\\ClientApp\\src\\app\\core\\nav-bar",
-    "\\ClientApp\\src\\app\\core\\section-header",
-    "\\ClientApp\\src\\app\\core\\services",
-    "\\ClientApp\\src\\app\\shop"
+    "\\Core",
+    "\\Core\\Entities",
+    "\\Core\\Interfaces"
   ],
-  "SelectedNode": "\\ClientApp\\tsconfig.json",
+  "SelectedNode": "\\foodnet.sln",
   "PreviewInSolutionExplorer": false
 }
