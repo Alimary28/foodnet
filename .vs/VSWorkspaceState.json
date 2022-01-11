@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Core",
-    "\\Core\\Entities",
+    "\\ClientApp",
+    "\\ClientApp\\src",
+    "\\ClientApp\\src\\app",
+    "\\ClientApp\\src\\app\\checkout",
+    "\\ClientApp\\src\\app\\core\\nav-bar",
+    "\\ClientApp\\src\\app\\shared\\components",
+    "\\ClientApp\\src\\app\\shared\\components\\order-totals",
+    "\\ClientApp\\src\\app\\shop\\product-item",
     "\\Core\\Interfaces"
   ],
   "SelectedNode": "\\foodnet.sln",
